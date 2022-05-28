@@ -1,9 +1,9 @@
 - 🌱 I’m currently learning ...
 Python
-html
-css
-js
-react and nodejs
+html,
+css,
+js,
+react and nodejs,
 mongodb
 .
 
